@@ -10,6 +10,6 @@ namespace ConcertLab.Web.Data {
 
         public virtual DbSet<Concert> Concerts { get; set; }
         public virtual DbSet<ConcertTicket> Tickets { get; set; }
-        public virtual DbSet<ConcertUser> Users { get; set; }
+        public virtual DbSet<ConcertUser> Users { get; set; } // ne treba?
     }
 }

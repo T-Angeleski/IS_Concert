@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcertLab.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b39a36a5607082f59b451cff88220ef15c035b3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcertLab.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcertLab.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

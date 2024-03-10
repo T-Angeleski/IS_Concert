@@ -1,0 +1,35 @@
+﻿@model List<ConcertLab.Web.Models.Concert>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Concerts</h1>
+
+<p>
+    <a asp-action="Create">Create a new concert</a>
+</p>
+<div class="container">
+    @for(int i = 0; i < Model.Count; i++) {
+        @* if(i % 3 == 0) {
+            <div class="row">
+        }  *@
+        <div class="column md-4">
+            <div class="card" style="width: 18rem;">
+              <img src="@Model[i].ImageURL" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">@Model[i].Name</h5>
+                <p class="card-text">@Model[i].Place</p>
+                <p class="card-text">Price: @Model[i].Price</p>
+                <p class="card-text">Date: @Model[i].Date.ToString()</p>
+                <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div>
+            </div>
+        </div>
+    
+@* 
+        @if(i % 3 == 2) {
+            </div>
+        } *@
+    }
+</div>
