@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D125167C-42C6-484D-8532-029D98D83A6F}|ConcertLab.Web\\ConcertLab.Web.csproj|solutionrelative:concertlab.web\\views\\concerts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D125167C-42C6-484D-8532-029D98D83A6F}|ConcertLab.Web\\ConcertLab.Web.csproj|d:\\finki\\semester 6\\integrirani sistemi\\solutions\\concertlab\\concertlab.web\\controllers\\concertticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D125167C-42C6-484D-8532-029D98D83A6F}|ConcertLab.Web\\ConcertLab.Web.csproj|solutionrelative:concertlab.web\\controllers\\concertticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D125167C-42C6-484D-8532-029D98D83A6F}|ConcertLab.Web\\ConcertLab.Web.csproj|d:\\finki\\semester 6\\integrirani sistemi\\solutions\\concertlab\\concertlab.web\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D125167C-42C6-484D-8532-029D98D83A6F}|ConcertLab.Web\\ConcertLab.Web.csproj|solutionrelative:concertlab.web\\controllers\\concertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcertTicketsController.cs",
+              "DocumentMoniker": "D:\\FINKI\\Semester 6\\Integrirani sistemi\\Solutions\\ConcertLAB\\ConcertLab.Web\\Controllers\\ConcertTicketsController.cs",
+              "RelativeDocumentMoniker": "ConcertLab.Web\\Controllers\\ConcertTicketsController.cs",
+              "ToolTip": "D:\\FINKI\\Semester 6\\Integrirani sistemi\\Solutions\\ConcertLAB\\ConcertLab.Web\\Controllers\\ConcertTicketsController.cs",
+              "RelativeToolTip": "ConcertLab.Web\\Controllers\\ConcertTicketsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:05:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FINKI\\Semester 6\\Integrirani sistemi\\Solutions\\ConcertLAB\\ConcertLab.Web\\Views\\Concerts\\Index.cshtml",
               "RelativeDocumentMoniker": "ConcertLab.Web\\Views\\Concerts\\Index.cshtml",
               "ToolTip": "D:\\FINKI\\Semester 6\\Integrirani sistemi\\Solutions\\ConcertLAB\\ConcertLab.Web\\Views\\Concerts\\Index.cshtml",
               "RelativeToolTip": "ConcertLab.Web\\Views\\Concerts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-10T16:20:31.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConcertsController.cs",
               "DocumentMoniker": "D:\\FINKI\\Semester 6\\Integrirani sistemi\\Solutions\\ConcertLAB\\ConcertLab.Web\\Controllers\\ConcertsController.cs",
               "RelativeDocumentMoniker": "ConcertLab.Web\\Controllers\\ConcertsController.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "ConcertLab.Web\\Controllers\\ConcertsController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T16:14:54.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T16:14:54.697Z"
             }
           ]
         }

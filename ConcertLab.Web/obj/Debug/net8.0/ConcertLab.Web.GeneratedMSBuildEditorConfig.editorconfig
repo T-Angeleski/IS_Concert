@@ -70,6 +70,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/FINKI/Semester 6/Integrirani sistemi/Solutions/ConcertLAB/ConcertLab.Web/Views/ConcertTickets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFRpY2tldHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINKI/Semester 6/Integrirani sistemi/Solutions/ConcertLAB/ConcertLab.Web/Views/ConcertTickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFRpY2tldHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINKI/Semester 6/Integrirani sistemi/Solutions/ConcertLAB/ConcertLab.Web/Views/ConcertTickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFRpY2tldHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINKI/Semester 6/Integrirani sistemi/Solutions/ConcertLAB/ConcertLab.Web/Views/ConcertTickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFRpY2tldHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINKI/Semester 6/Integrirani sistemi/Solutions/ConcertLAB/ConcertLab.Web/Views/ConcertTickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFRpY2tldHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/FINKI/Semester 6/Integrirani sistemi/Solutions/ConcertLAB/ConcertLab.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
